@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="keepxpvp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/keepxpvp_jar</output-path>
+    <root id="archive" name="keepxpvp.jar">
+      <element id="module-output" name="keepxpvp" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/16.0.1/annotations-16.0.1.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+    </root>
+  </artifact>
+</component>
